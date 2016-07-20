@@ -1,17 +1,9 @@
 # Angularjs-Multiple-View-Render-Concept
 Multiple View render concept in angularjs
 
-<!doctype html>
-<html>
+
    
-   <head>
-      <script src = "js/library/angular.min.js"></script>  
-      <script src = "js/library/angular-route.min.js"></script>
-      <script src = "js/controller/app.js"></script>
-      <script src = "js/controller/controller.js"></script>
-      <script src = "js/library/highcharts.js"></script> 
-      <script src = "js/library/highcharts-ng.js"></script>
-   </head>
+
    
    <body ng-app="mainApp">
 
@@ -30,8 +22,4 @@ Multiple View render concept in angularjs
       <div ng-view></div>
 
       
-   </body>
-
-
-
-</html>
+ </body>
